@@ -1,0 +1,1 @@
+Section,ArrayElem,Constrained,BitVector,Syntax,Garcia,Portland,ASSOCIATED,Duggan,BoxedArray,Soundness,Second,Harper,Oregon,Software,France,risett,System,PairArray,MapPair,Associated,Haskell,UIntArr,IntArray,Clutter,Interface,MapInt,outEdges,California,OOPSLA,Vertex,Generalizing,ArrayRep,Generic,Australian,MOTIVATION,Patricia,DefaultArray,second,Morrisett,
